@@ -8,7 +8,7 @@
 
 本网站的主界面设计通过进行首页、上传、登录、注册、用户、反馈和建议。界面设计如图5.1所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![img](D:\python\py\flask\img\1.png)
 
 图5.1　系统首页
 
@@ -26,7 +26,7 @@
 
 通过用户注册实现。其界面的如图5.2所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](D:\python\py\flask\img\2.png)
 
 图5.2　用户注册模块
 
@@ -130,7 +130,7 @@
 
 通过用户登录实现，而当输入时，已注册过后，邮箱和手机不能再填同样重复信息。如果用户不存在，会提示不存在。其界面如图5.3所示
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![img](D:\python\py\flask\img\3.png)
 
 图5.3　用户验证图
 
@@ -140,7 +140,7 @@
 
 输入时注意的是密码，切记密码。其界面如图5.4所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![img](D:\python\py\flask\img\4.png)
 
 图5.4　用户登录模块
 
@@ -152,7 +152,7 @@
 
 已注册过的用户同时直接登录本网站后，就可以看到用户信息，然后点击用户中心和修改密码操作即可，在这此本身页面时，提高了很多方便操作。其界面如图5.5所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![img](D:\python\py\flask\img\5.png)
 
 图5.5　用户修改信息模块
 
@@ -166,7 +166,7 @@
 
 点击退出即可.其界面如图5.6所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![img](D:\python\py\flask\img\6.png)
 
 图5.6　退出模块
 
@@ -178,7 +178,7 @@
 
 为了简洁界面，适意简化，给用户展示作用。其界面如图5.7所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![img](D:\python\py\flask\img\7.png)
 
 图5.7　首页模块
 
@@ -200,7 +200,7 @@
 
 分享视频给任何人看，就用上传来添加。其界面如图5.9所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![img](D:\python\py\flask\img\8.png)
 
 图5.9　上传模块
 
@@ -210,7 +210,7 @@
 
 当操作时使用了合并的前端，方便给用户选择上下窗口，而不需要一个一个打开，如此很完善。其界面如图5.10所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![img](D:\python\py\flask\img\9.png)
 
 图5.10　用户模块
 
@@ -222,7 +222,7 @@
 
 通过这设计来给用户快速搜索，而且升级了功能上传。其界面如图5.11所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
+![img](D:\python\py\flask\img\10.png)
 
 图5.11　搜索模块
 
@@ -234,7 +234,7 @@
 
 嘻嘻，看着网站好像能吸引用户喜爱，要是我肯定很喜欢它，因为图片很酷哦。本网站采用筛选分页来设计。这么多电影，找来找去会很怒的，选中想看的某部电影，筛选分页会帮用户实现信息。其界面如图5.12所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)
+![img](D:\python\py\flask\img\11.png)
 
 图5.12　电影模块
 
@@ -246,15 +246,13 @@
 
 ​     别小看播放功能少，播放电影作用很大，为什么？为了能够用户满意程度，我们设计了播放模块，让用户看清晰，减少卡顿、评论、收藏和弹幕。为了更多电影观众提供一个相互交流的桥梁，能通过看到与观众交流自己的观影后感。弹幕是一个主流的弹幕视频，而且是一个革新弹幕技术。看过程中，把自己想法表达出来通过文字输入形式，然而会出现屏幕上，可以在评论上，任何写出感受。这些是一种庞大的文字信息资源。总的来说，是一个很好的网络公共平台的。其界面如图5.13所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg)
-
 图5.13播放模块
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg)
+![img](D:\python\py\flask\img\12.png)
 
 图5.14弹幕模块
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg)
+![img](D:\python\py\flask\img\13.png)
 
 图5.15评论模块
 
@@ -264,7 +262,7 @@
 
 通过反馈问题，我们可以及时改进。其界面如图5.16所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)
+![img](D:\python\py\flask\img\14.png)
 
 图5.16　反馈及意见模块
 
@@ -278,13 +276,13 @@
 
 通过热映分成两种，一是已上映，二是即将上映。为了给用户更加方便操作，用户可以及时了解的时间和故事，还可以点击播放预告视频，非常精彩。其界面如图5.17所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image036.jpg)
+![img](D:\python\py\flask\img\15.png)
 
 图5.17　已上映模块
 
  
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image038.jpg)
+![img](D:\python\py\flask\img\16.png)
 
 图5.18　播放已上映模块
 
@@ -292,13 +290,13 @@
 
 通过热映分成两种，一是已上映，二是即将上映。用户看好电影或者收藏电影，可以及时了解的时间和故事，还可以点击播放预告视频，非常精彩。如有更新的电影，我们可以更新传送信息。其界面如图5.19所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image040.jpg)
+![img](D:\python\py\flask\img\17.png)
 
 图5.19　即将上映模块
 
  
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image042.jpg)
+![img](D:\python\py\flask\img\18.png)
 
 图5.20　播放已上映模块
 
@@ -308,19 +306,17 @@
 
 通过新闻资讯分成两种，一是影视资讯，二是新闻右列。为了给用户更加方便操作。用户可以查看更新新闻资讯，还可以点击另一个页面，好奇，八卦，影视等等的事情。其界面如图5.21所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image044.jpg)
+![img](D:\python\py\flask\img\19.png)
 
 图5.21　影视资讯模块
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image046.jpg)
+![img](D:\python\py\flask\img\20.png)
 
 图5.22　页面资讯模块
 
 2．影视资讯
 
 通过新闻资讯分成两种，一是影视资讯，二是新闻右列。为了给用户更加方便操作。新闻右列是设计给用户美观和风格。其界面如图5.23所示。
-
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image048.jpg)
 
 图5.23　右列模块
 
@@ -334,7 +330,7 @@
 
 管理员登录实现形式。其界面如图5.24所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image050.jpg)
+![img](D:\python\py\flask\img\21.png)
 
 图5.24　admin登录模块
 
@@ -346,7 +342,7 @@
 
 先把标签添加完后，电影管理就能添加了。其界面如图5.25所示。
 
-![img](file:///C:/Users/10843/AppData/Local/Temp/msohtmlclip1/01/clip_image052.jpg)
+![img](D:\python\py\flask\img\22.png)
 
 图5.25标签管理模块
 
